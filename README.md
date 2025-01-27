@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/40e695b6-5314-4431-8427-c94fb869e2db)
 Comfi - Responsive Furniture Webpage 🛋️
 Comfi is a beautifully designed and fully responsive furniture webpage that showcases an elegant and user-friendly interface to explore furniture collections. This project highlights the seamless integration of HTML, CSS, and JavaScript to create a visually appealing and interactive web experience.
 
